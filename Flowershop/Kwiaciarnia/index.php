@@ -32,7 +32,7 @@
                 </div>
                 <div class="grid-item item2"></div>
                 <div class="grid-item item3 "><p class="whitetext"><strong>DOSTAWA JUZ DZISIAJ!</strong></p></div>
-                <div class="grid-item item4"><h2>Jakie kwiaty wybierasz dzisiaj?</h2></div>
+                <div class="grid-item item4"><h2>Jaki kwiaty wybierasz dzisiaj?</h2></div>
         </div>
         <div class="container text-center">
                 <div class="row gx-5 gy-5 row-cols-4">
